@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frankgomezdev&label=Profile%20views&color=0e75b6&style=flat" alt="frankgomezdev" /> </p>
 
-- 🌱 I’m currently learning **Node, Express, React, and MongoDB**
+- 🌱 I’m currently learning **Vue, Node, and TypeScript**
 
 - 📫 How to reach me **franklingomezdev@gmail.com**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/frvnkthedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frvnkthedev" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/frvnkthedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frvnkthedev" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/fgomezj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fgomezj" height="30" width="40" /></a>
 </p>
 
