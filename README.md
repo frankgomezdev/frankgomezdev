@@ -1,6 +1,6 @@
 
 # Hi 👋 I am Franklin! 
-I am a Software Engineer at [Accenture](https:/accenture.com/).
+I am a Software Engineer at [Accenture](https://www.accenture.com/us-en).
 
 - 🌐 Visit my [portfolio website](https://franklingomez.dev/) for more information and to get in touch.
 - ✍️ Follow me on [LinkedIn](https://www.linkedin.com/in/fgomezj/). I'd love to connect!
