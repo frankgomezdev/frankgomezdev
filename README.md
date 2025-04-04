@@ -3,7 +3,7 @@
 I am a Software Engineer at [Accenture](https:/accenture.com/).
 
 - 🌐 Visit my [portfolio website](https://franklingomez.dev/) for more information and to get in touch.
-- ✍️ Follow me on [LinkedIn](https://pr2tik1.medium.com/). I'd love to connect!
+- ✍️ Follow me on [LinkedIn](https://www.linkedin.com/in/fgomezj/). I'd love to connect!
 
 ---
 
